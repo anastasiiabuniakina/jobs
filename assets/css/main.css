@@ -1,0 +1,65 @@
+.nav {
+    width: 1145px;
+    height: 49px;
+    margin-left: 147px;
+    margin-top: 44px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn  {
+    height: 49px;
+    width: 155px;
+    border-radius: 5px;
+    padding: 15px 30px 15px 30px;
+    background: #1A75E8;
+}
+
+.btn p {
+    color: white;
+}
+
+p  {
+    font-family: "Fira Sans";
+    font-size: 18px;
+}
+
+.btn:hover {
+    background: #4899FF;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.btn:active {
+    background: #1963C0;
+}
+
+h1 {
+    font-size: 44px;
+    font-family: "Fira Sans";
+}
+
+h2 {
+    font-size: 36px;
+    font-family: "Fira Sans";
+}
+
+h3 {
+    font-size: 24px;
+    font-family: "Fira Sans";
+}
+
+h4 {
+    font-size: 16px;
+    font-family: "Fira Sans";
+}
+
+h5 {
+    font-size: 14px;
+    font-family: "Fira Sans";
+}
+
+h6 {
+    font-size: 12px;
+    font-family: "Fira Sans";
+}
